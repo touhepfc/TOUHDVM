@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EPFCCommunicator</string>
+    <string name="Edit_Text">Enter a message</string>
+    <string name="Buton_Send">Send</string>
+    <string name="Buton_Share">SHARE</string>
+    <string name="Edit_Text2">enter an address</string>
+    <string name="Buton_Search">SEARCH</string>
+    <string name="Buton_TAKEPICTURE">TAKE PICTURE</string>
+</resources>
